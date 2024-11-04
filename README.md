@@ -1,3 +1,3 @@
 # AnsibleTest
 
-Kjo  repo eshte krijuar per motive studimi.
+Kjo repo eshte krijuar per motive studimi..
